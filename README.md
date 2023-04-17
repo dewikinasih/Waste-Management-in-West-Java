@@ -2,6 +2,8 @@
 
 I used dataset owned by the Ministry of Environment. The aim is to see how the condition of the waste management are based on the variables in the data
 
+![image](https://github.com/dewikinasih/Waste-Management-in-West-Java/blob/0ac7ba63534cabf53860992794112b11134d9533/jenis.png)
+
 There are only 15 city in Jawa Barat that tracked in this dataset. With that 15 data we can get insightful information, those are :
 Food waste makes up the largest single category of waste reaching landfills in Jawa Barat
 Three cities that produced the most waste are Bekasi, Bandung, and Depok
