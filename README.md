@@ -9,7 +9,7 @@ Food waste makes up the largest single category of waste reaching landfills in J
 Three cities that produced the most waste are Bekasi, Bandung, and Depok
 Although Bekasi is the first waste producer, only 0,3% of waste is being recycled
 
-[Python]()
+[Python](https://github.com/dewikinasih/Waste-Management-in-West-Java/blob/e47de94f4753447af4ac942630d83c934492e0f5/EDA_Sampah_Jabar.ipynb)
 
 Package Used : Pandas, numpy, seaborn, matplotlib
 
